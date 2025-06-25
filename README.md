@@ -10,5 +10,5 @@ Approach used in the Project:
 5. Now we are giving the chunks retrieved from RAG along with the combined_summary to the llm for metadata generation. And we are getting the metadata as the final output.
 
 IMPORTANT NOTE: 
-I have done the whole process step by step in different cells of the ipynb file and then combined all the steps in the last cell block of the ipynb code. You can run the last cell block to generate the local or public url of the interface of the automated metadata generator. Make sure to run the last code cell block to generate a new link for the interface metadata generator.
+I have done the whole process step by step in different cells of the ipynb file and then combined all the steps in the last cell block of the ipynb code. You can run the last cell block to generate the local or public url of the interface of the automated metadata generator. Make sure to run the last code cell block to generate a new link for the interface metadata generator. And make sure to set up the .env file given in this github repo before running the code as it contains the api keys and tokens.
 
